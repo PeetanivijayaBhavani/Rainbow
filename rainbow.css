@@ -1,0 +1,35 @@
+body{
+    border:15px solid black;
+    /* height:500px;
+    width: 500px; */
+    /* position:relative;
+    left:300px; */
+    padding:0;
+    margin:0;
+    height:700px;
+}
+div{
+    border:10px solid white;
+    background-color:burlywood;
+    position:relative;
+    height:400px;
+    width: 400px;
+    top:100px;
+    left:350px;
+}
+#button
+{
+    position:relative;
+    top:200px;
+    left:50px;
+    background-color: red;
+    color:aliceblue;
+}
+#btn{
+    position: relative;
+    padding:10px;
+    bottom:30px;
+    top:150px;
+    right:30px;
+
+}
